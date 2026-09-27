@@ -1,0 +1,4 @@
+# One labeled case per line: the query, the id(s) that are genuinely right, optional tags.
+{"q": "tell me about the reasoning service", "relevant": [1], "tags": ["title"]}
+{"q": "design tokens", "relevant": [2], "tags": ["title"]}
+{"q": "wordpress plugins", "relevant": [3], "tags": ["literal"]}
